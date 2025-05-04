@@ -1,0 +1,19 @@
+Trust: If a brand is described with words like "reliable," "secure," or "trusted," it scores higher on trust.
+
+Quality: Descriptors like "high-quality," "superior," or "excellent" lead to a higher quality rating.
+
+Reliability: The use of terms like "consistent," "dependable," or "reliable" increases the reliability score.
+
+Customer Service: If a brand is noted for its "strong customer service" or "helpful support," it rates higher in customer service.
+
+Innovation: Words like "innovative," "leader," or "pioneering" suggest a higher score in innovation.
+
+Authenticity: References to a brand being "genuine," "authentic," or "true to its values" enhance its authenticity score.
+
+Value for Money: Phrases like "worth the price" or "cost-effective" improve the value for money rating.
+
+Ethical Practices: Mentions of "corporate responsibility," "sustainability," or "ethical practices" lead to a higher ethical score.
+
+Brand Image: A brand described as having a "strong reputation" or "positive perception" receives a high brand image score.
+
+Consistency: If a brand is noted for delivering a "uniform experience" or "consistent quality," it rates higher in consistency.

@@ -1,0 +1,83 @@
+These ratings have been calculated based on the heuristic rules applied to the descriptions provided. The scores reflect the presence of certain keywords in the descriptions that indicate a higher or lower performance in each attribute.
+
+Heuristic rules are simplified guidelines or principles used to solve problems or make decisions more quickly. When applied to tasks like analysis or judgment, they serve as a "rule of thumb" to streamline the process, often sacrificing some accuracy for the sake of efficiency.
+
+The "overall_rating" is the average of all the ratings provided.
+
+Attribute Scale:
+
+The attribute scale is a set of criteria used to evaluate various aspects of a brand's performance or perception in the marketplace, such as trust, quality, reliability, customer service, and so on.
+
+Trust: Measures how much confidence customers have in the brand to deliver on its promises.
+
+1: No trust; customers believe the brand is dishonest or deceitful.
+10: Complete trust; customers believe the brand is completely honest and always delivers on its promises.
+
+Quality: Assesses the overall excellence of products or services.
+
+1: Very poor quality; products/services often fail and do not meet customer expectations.
+10: Superior quality; products/services exceed market standards and customer expectations.
+
+Reliability: Gauges the consistency of product/service performance over time.
+
+1: Highly unreliable; products/services frequently fail or are inconsistent.
+10: Highly reliable; products/services are consistently dependable and perform well.
+
+Customer Service: Evaluates the quality of support and service provided to customers.
+
+1: Very poor customer service; support is unhelpful, unavailable, or rude.
+10: Excellent customer service; support is helpful, readily available, and polite.
+
+Innovation: Measures the degree to which the brand is seen as a leader in developing new products, services, or ideas.
+
+1: Not innovative; brand never offers new or improved products/services.
+10: Highly innovative; brand regularly leads the market with new advancements.
+
+Authenticity: Assesses how genuine the brand is perceived to be in its communications and actions.
+
+1: Not authentic; brand is seen as fake or not true to its values.
+10: Highly authentic; brand is seen as genuine and true to its values.
+
+Value for Money: Evaluates whether or not the brand’s products/services are worth the price paid.
+
+1: Very poor value for money; products/services are priced too high for the quality offered.
+10: Excellent value for money; products/services are priced appropriately or below expectation for the quality offered.
+
+Ethical Practices: Measures the degree to which the brand engages in socially and environmentally responsible practices.
+
+1: Not ethical; brand regularly engages in practices harmful to society or the environment.
+10: Highly ethical; brand is a leader in corporate responsibility and sustainability.
+
+Brand Image: Assesses the overall perception and reputation of the brand in the marketplace.
+
+1: Very poor image; brand is viewed negatively in the market.
+10: Excellent image; brand has a strong, positive reputation in the market.
+
+Consistency: Measures how consistent the brand is in its messaging, product/service quality, and customer experience.
+
+1: Very inconsistent; brand frequently changes and is unpredictable.
+10: Highly consistent; brand delivers a uniform experience across all touchpoints.
+
+Example:
+
+Rating Apple based on the brand's description and the attribute scale.
+
+Trust: Given the high regard for the user-friendly ecosystem, we could rate this quite high. Let's say 9.
+
+Quality: Apple's unique design aesthetics and innovative technology suggest a superior quality. We'll go with 9.
+
+Reliability: The seamless integration suggests high reliability. We'll rate this 9 as well.
+
+Customer Service: Apple is known for its good customer support, so we might rate it at 8.
+
+Innovation: Apple is noted for innovation, deserving a high score. We'll give it a 9.
+
+Authenticity: Apple has a strong brand identity and is often perceived as genuine. Let's rate it at 8.
+
+Value for Money: Apple's products are high-quality but also high-priced; some may not see them as the best value for money. A score of 7 seems fair.
+
+Ethical Practices: Apple has made strides in environmental responsibility, but it's not the main highlight in the description. A score of 7 would be reasonable.
+
+Brand Image: The description suggests a strong, positive reputation. We'll give it a 9.
+
+Consistency: Apple is known for consistent product quality and messaging. We'll score this at 9.
