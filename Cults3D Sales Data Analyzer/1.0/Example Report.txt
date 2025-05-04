@@ -1,0 +1,63 @@
+
+Sales Data Statistics Report
+
+Summary Statistics:
+-------------------
+Total before tax (EUR):
+- Count: 5.0
+- Mean: 9.808
+- Min: 2.03
+- Max: 24.0
+
+VAT EUR:
+- Count: 5.0
+- Mean: 0.0
+- Min: 0.0
+- Max: 0.0
+
+Total including VAT EUR:
+- Count: 5.0
+- Mean: 9.808
+- Min: 2.03
+- Max: 24.0
+
+Cults Commission EUR:
+- Count: 5.0
+- Mean: 0.41
+- Min: 0.41
+- Max: 0.41
+
+Income EUR:
+- Count: 5.0
+- Mean: 8.569999999999999
+- Min: 1.62
+- Max: 21.34
+
+Top Transaction:
+----------------
+- Date: 2024-05-16 00:00:00
+- User: username3
+- Buyer country: US
+- Design: Example 3
+- Total before tax (EUR): 24.0
+- Total including VAT EUR: 24.0
+- Cults Commission EUR: 0.41
+- Income EUR: 21.34
+
+Grouped by User:
+----------------
+           Total before tax (EUR)  Total including VAT EUR  Cults Commission EUR  Income EUR
+User                                                                                        
+username1                    2.03                     2.03                  0.41        1.62
+username2                   12.23                    12.23                  0.41       11.12
+username3                   24.00                    24.00                  0.41       21.34
+username4                    4.45                     4.45                  0.41        3.08
+username5                    6.33                     6.33                  0.41        5.69
+
+Grouped by Buyer country:
+-------------------------
+               Total before tax (EUR)  Total including VAT EUR  Cults Commission EUR  Income EUR
+Buyer country                                                                                   
+CA                              16.68                    16.68                  0.82       14.20
+US                              32.36                    32.36                  1.23       28.65
+    

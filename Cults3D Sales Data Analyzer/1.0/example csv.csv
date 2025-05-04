@@ -1,0 +1,6 @@
+Date,User,Buyer country,Design,Total before tax (EUR),VAT (%),VAT base (% of Total before tax),VAT EUR,Total including VAT EUR,Cults Commission EUR,Income EUR,Total in currency,Currency,Status
+2024-05-16,username1,US,Example 1,2.03,0%,20%,0,2.03,0.41,1.62,2.03,EUR,⏳ Pending
+2024-05-16,username2,CA,Example 2,12.23,0%,20%,,12.23,0.41,11.12,12.23,EUR,⏳ Pending
+2024-05-16,username3,US,Example 3,24,0%,20%,,24,0.41,21.34,24,EUR,⏳ Pending
+2024-05-16,username4,CA,Example 4,4.45,0%,20%,,4.45,0.41,3.08,4.45,EUR,⏳ Pending
+2024-05-16,username5,US,Example 5,6.33,0%,20%,,6.33,0.41,5.69,6.33,EUR,⏳ Pending
