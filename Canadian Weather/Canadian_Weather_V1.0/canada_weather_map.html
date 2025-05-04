@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_85c0cc175f1ceda7307c302ce6564304 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_85c0cc175f1ceda7307c302ce6564304" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_85c0cc175f1ceda7307c302ce6564304 = L.map(
+                "map_85c0cc175f1ceda7307c302ce6564304",
+                {
+                    center: [56.1304, -106.3468],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 4,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_46ec02540aae8d5e472afa05a506378d = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var marker_0dbc57772132cf5fe8fb81989f751501 = L.marker(
+                [48.4284, -123.3656],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_8e42023be4a0f009e27bbc778b40d1d5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_0dbc57772132cf5fe8fb81989f751501.setIcon(icon_8e42023be4a0f009e27bbc778b40d1d5);
+        
+    
+        var popup_11be4f8720742f59fcf06951c9394526 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ba2d4ca7dbb08a4c1964fddf2e09d04a = $(`<div id="html_ba2d4ca7dbb08a4c1964fddf2e09d04a" style="width: 100.0%; height: 100.0%;">Victoria<br>Average Temperature: 3.88°C</div>`)[0];
+                popup_11be4f8720742f59fcf06951c9394526.setContent(html_ba2d4ca7dbb08a4c1964fddf2e09d04a);
+            
+        
+
+        marker_0dbc57772132cf5fe8fb81989f751501.bindPopup(popup_11be4f8720742f59fcf06951c9394526)
+        ;
+
+        
+    
+    
+            var marker_be48f539d95f8a575719ad99cc801ae1 = L.marker(
+                [53.5461, -113.4938],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_e0e8b99d8edd1a3b6faf1b9364d5ea85 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_be48f539d95f8a575719ad99cc801ae1.setIcon(icon_e0e8b99d8edd1a3b6faf1b9364d5ea85);
+        
+    
+        var popup_7f949ade0c8d6cbed91674320a83adfa = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a2a04cd8f601d16a4b3f1aafd885de22 = $(`<div id="html_a2a04cd8f601d16a4b3f1aafd885de22" style="width: 100.0%; height: 100.0%;">Edmonton<br>Average Temperature: 3.88°C</div>`)[0];
+                popup_7f949ade0c8d6cbed91674320a83adfa.setContent(html_a2a04cd8f601d16a4b3f1aafd885de22);
+            
+        
+
+        marker_be48f539d95f8a575719ad99cc801ae1.bindPopup(popup_7f949ade0c8d6cbed91674320a83adfa)
+        ;
+
+        
+    
+    
+            var marker_0f8a07432e3f1772f1b734ba67a8953f = L.marker(
+                [50.4452, -104.6189],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_f0cf33fd97e536d951dde02c034389a0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_0f8a07432e3f1772f1b734ba67a8953f.setIcon(icon_f0cf33fd97e536d951dde02c034389a0);
+        
+    
+        var popup_3a0c32499dcf8fd78faeaf8c2b97daf9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e40725b2ea04a13f773aa91491c0f70c = $(`<div id="html_e40725b2ea04a13f773aa91491c0f70c" style="width: 100.0%; height: 100.0%;">Regina<br>Average Temperature: 3.88°C</div>`)[0];
+                popup_3a0c32499dcf8fd78faeaf8c2b97daf9.setContent(html_e40725b2ea04a13f773aa91491c0f70c);
+            
+        
+
+        marker_0f8a07432e3f1772f1b734ba67a8953f.bindPopup(popup_3a0c32499dcf8fd78faeaf8c2b97daf9)
+        ;
+
+        
+    
+    
+            var marker_6c45c1faf17ad0cfa91cf8c012eccbc1 = L.marker(
+                [49.8951, -97.1384],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_9c1d6718f71c164da898b89481a55783 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_6c45c1faf17ad0cfa91cf8c012eccbc1.setIcon(icon_9c1d6718f71c164da898b89481a55783);
+        
+    
+        var popup_72321e081c143fca553e37b858da1ee1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c4e5236c4c5c45b8fc9ba80ee3e7de9a = $(`<div id="html_c4e5236c4c5c45b8fc9ba80ee3e7de9a" style="width: 100.0%; height: 100.0%;">Winnipeg<br>Average Temperature: 3.88°C</div>`)[0];
+                popup_72321e081c143fca553e37b858da1ee1.setContent(html_c4e5236c4c5c45b8fc9ba80ee3e7de9a);
+            
+        
+
+        marker_6c45c1faf17ad0cfa91cf8c012eccbc1.bindPopup(popup_72321e081c143fca553e37b858da1ee1)
+        ;
+
+        
+    
+    
+            var marker_49c35011360907b51ca45fb0dc6455f7 = L.marker(
+                [43.6532, -79.3832],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_a396fa706cf28635d8654781e7ce7111 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_49c35011360907b51ca45fb0dc6455f7.setIcon(icon_a396fa706cf28635d8654781e7ce7111);
+        
+    
+        var popup_8a27251b78ea544aafa3f6067b214c78 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9366d50efeee2e498f5914fa4679da6b = $(`<div id="html_9366d50efeee2e498f5914fa4679da6b" style="width: 100.0%; height: 100.0%;">Toronto<br>Average Temperature: 3.88°C</div>`)[0];
+                popup_8a27251b78ea544aafa3f6067b214c78.setContent(html_9366d50efeee2e498f5914fa4679da6b);
+            
+        
+
+        marker_49c35011360907b51ca45fb0dc6455f7.bindPopup(popup_8a27251b78ea544aafa3f6067b214c78)
+        ;
+
+        
+    
+    
+            var marker_7e4f373e8067f49f602d2c110a2b585b = L.marker(
+                [46.8139, -71.2082],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_0f5798f37ea9f4b3e0a912c15bd5dc1a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_7e4f373e8067f49f602d2c110a2b585b.setIcon(icon_0f5798f37ea9f4b3e0a912c15bd5dc1a);
+        
+    
+        var popup_54b0da71e5f54574506dabba0f979145 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a707ec2d897f29553a0ce092b99ea344 = $(`<div id="html_a707ec2d897f29553a0ce092b99ea344" style="width: 100.0%; height: 100.0%;">Quebec City<br>Average Temperature: 3.88°C</div>`)[0];
+                popup_54b0da71e5f54574506dabba0f979145.setContent(html_a707ec2d897f29553a0ce092b99ea344);
+            
+        
+
+        marker_7e4f373e8067f49f602d2c110a2b585b.bindPopup(popup_54b0da71e5f54574506dabba0f979145)
+        ;
+
+        
+    
+    
+            var marker_42925915a9b021d58f4be5a49adc23ef = L.marker(
+                [45.9636, -66.6431],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_4bd3b31167f62f170f019c87fd127aeb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_42925915a9b021d58f4be5a49adc23ef.setIcon(icon_4bd3b31167f62f170f019c87fd127aeb);
+        
+    
+        var popup_969d9236ce1921e324e792954374e999 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ed143e57f88af1cb23639c7acec56714 = $(`<div id="html_ed143e57f88af1cb23639c7acec56714" style="width: 100.0%; height: 100.0%;">Fredericton<br>Average Temperature: 3.88°C</div>`)[0];
+                popup_969d9236ce1921e324e792954374e999.setContent(html_ed143e57f88af1cb23639c7acec56714);
+            
+        
+
+        marker_42925915a9b021d58f4be5a49adc23ef.bindPopup(popup_969d9236ce1921e324e792954374e999)
+        ;
+
+        
+    
+    
+            var marker_8ad34e23c6bc8cad9696d78b9a3cf8c8 = L.marker(
+                [44.6488, -63.5752],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_58d6276ed1338819be8390adbacd83bc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_8ad34e23c6bc8cad9696d78b9a3cf8c8.setIcon(icon_58d6276ed1338819be8390adbacd83bc);
+        
+    
+        var popup_682df36f06022aa74235de6b8db4fdb3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_38a7f5384231e1731232d6ebcdb755b1 = $(`<div id="html_38a7f5384231e1731232d6ebcdb755b1" style="width: 100.0%; height: 100.0%;">Halifax<br>Average Temperature: 3.88°C</div>`)[0];
+                popup_682df36f06022aa74235de6b8db4fdb3.setContent(html_38a7f5384231e1731232d6ebcdb755b1);
+            
+        
+
+        marker_8ad34e23c6bc8cad9696d78b9a3cf8c8.bindPopup(popup_682df36f06022aa74235de6b8db4fdb3)
+        ;
+
+        
+    
+    
+            var marker_b186972c67a9a7b9a1e5cf2d06d97bf6 = L.marker(
+                [46.2382, -63.1311],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_1b0ed1ba659416e3721c848f9431eed7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_b186972c67a9a7b9a1e5cf2d06d97bf6.setIcon(icon_1b0ed1ba659416e3721c848f9431eed7);
+        
+    
+        var popup_6f2cc23a56bc8904870eb07997873eaf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e559570f6dfbc93d6be27447f2b2be2a = $(`<div id="html_e559570f6dfbc93d6be27447f2b2be2a" style="width: 100.0%; height: 100.0%;">Charlottetown<br>Average Temperature: 3.88°C</div>`)[0];
+                popup_6f2cc23a56bc8904870eb07997873eaf.setContent(html_e559570f6dfbc93d6be27447f2b2be2a);
+            
+        
+
+        marker_b186972c67a9a7b9a1e5cf2d06d97bf6.bindPopup(popup_6f2cc23a56bc8904870eb07997873eaf)
+        ;
+
+        
+    
+    
+            var marker_623782c9ac5399686cc4db3c8611ba1a = L.marker(
+                [47.5615, -52.7126],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_f174d4327c980fc75168c8e87ba1e74f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_623782c9ac5399686cc4db3c8611ba1a.setIcon(icon_f174d4327c980fc75168c8e87ba1e74f);
+        
+    
+        var popup_ffad57323fc32b60977cc1c394668a2a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_eb2deb2ac46350c3d0c33f5b1ffe896e = $(`<div id="html_eb2deb2ac46350c3d0c33f5b1ffe896e" style="width: 100.0%; height: 100.0%;">St. John's<br>Average Temperature: 3.88°C</div>`)[0];
+                popup_ffad57323fc32b60977cc1c394668a2a.setContent(html_eb2deb2ac46350c3d0c33f5b1ffe896e);
+            
+        
+
+        marker_623782c9ac5399686cc4db3c8611ba1a.bindPopup(popup_ffad57323fc32b60977cc1c394668a2a)
+        ;
+
+        
+    
+    
+            var marker_2ecac2da79e7ee3dd9339f58848e476d = L.marker(
+                [43.67, -79.42],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_1a1b2a2691fd139f5c48a524cae7ce3b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "cloud", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_2ecac2da79e7ee3dd9339f58848e476d.setIcon(icon_1a1b2a2691fd139f5c48a524cae7ce3b);
+        
+    
+        var popup_120db3d9d1e502e44e056baff6a1fa8a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ad59239f0de9c853ea1a60d559112c78 = $(`<div id="html_ad59239f0de9c853ea1a60d559112c78" style="width: 100.0%; height: 100.0%;">Toronto<br>Temperature: 5.0°C<br>Description: Overcast</div>`)[0];
+                popup_120db3d9d1e502e44e056baff6a1fa8a.setContent(html_ad59239f0de9c853ea1a60d559112c78);
+            
+        
+
+        marker_2ecac2da79e7ee3dd9339f58848e476d.bindPopup(popup_120db3d9d1e502e44e056baff6a1fa8a)
+        ;
+
+        
+    
+    
+            var marker_a7c448202ebe9619722c270010387e74 = L.marker(
+                [49.25, -123.13],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_d656a526e9d670cf4ae94baf8f826fa5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "cloud", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_a7c448202ebe9619722c270010387e74.setIcon(icon_d656a526e9d670cf4ae94baf8f826fa5);
+        
+    
+        var popup_c2eabea1875ecdca7194377e7f00ee4e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_736d9711c8a2492f72a6856787d8d20a = $(`<div id="html_736d9711c8a2492f72a6856787d8d20a" style="width: 100.0%; height: 100.0%;">Vancouver<br>Temperature: 11.0°C<br>Description: Partly cloudy</div>`)[0];
+                popup_c2eabea1875ecdca7194377e7f00ee4e.setContent(html_736d9711c8a2492f72a6856787d8d20a);
+            
+        
+
+        marker_a7c448202ebe9619722c270010387e74.bindPopup(popup_c2eabea1875ecdca7194377e7f00ee4e)
+        ;
+
+        
+    
+    
+            var marker_57a5c6b86cc5b5010749c35090d2c5cd = L.marker(
+                [45.5, -73.58],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_f79ab0db5c1441d68ceef70de109a8f5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "cloud", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_57a5c6b86cc5b5010749c35090d2c5cd.setIcon(icon_f79ab0db5c1441d68ceef70de109a8f5);
+        
+    
+        var popup_ddeefe525b225d6b4336e92fadc0296b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a36a75b203f5598d814e1f34d381b01e = $(`<div id="html_a36a75b203f5598d814e1f34d381b01e" style="width: 100.0%; height: 100.0%;">Montreal<br>Temperature: 2.0°C<br>Description: Overcast</div>`)[0];
+                popup_ddeefe525b225d6b4336e92fadc0296b.setContent(html_a36a75b203f5598d814e1f34d381b01e);
+            
+        
+
+        marker_57a5c6b86cc5b5010749c35090d2c5cd.bindPopup(popup_ddeefe525b225d6b4336e92fadc0296b)
+        ;
+
+        
+    
+    
+            var marker_b357bae79594a7a4936a73d6bf74163b = L.marker(
+                [51.08, -114.08],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_dbe8b569dba65eb37d6772cfcaf76ef3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "cloud", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_b357bae79594a7a4936a73d6bf74163b.setIcon(icon_dbe8b569dba65eb37d6772cfcaf76ef3);
+        
+    
+        var popup_17370cecfd42158e85c7abb03b92d0a3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ee0dd5005b32820d96eb7c8e3989f7e8 = $(`<div id="html_ee0dd5005b32820d96eb7c8e3989f7e8" style="width: 100.0%; height: 100.0%;">Calgary<br>Temperature: 4.0°C<br>Description: Mist</div>`)[0];
+                popup_17370cecfd42158e85c7abb03b92d0a3.setContent(html_ee0dd5005b32820d96eb7c8e3989f7e8);
+            
+        
+
+        marker_b357bae79594a7a4936a73d6bf74163b.bindPopup(popup_17370cecfd42158e85c7abb03b92d0a3)
+        ;
+
+        
+    
+    
+            var marker_4a47e3fc10d4ef674b4a40a6650ba8bf = L.marker(
+                [53.55, -113.5],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_70712739059684b0f1c7db246c9d4e67 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "cloud", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_4a47e3fc10d4ef674b4a40a6650ba8bf.setIcon(icon_70712739059684b0f1c7db246c9d4e67);
+        
+    
+        var popup_def6819786a848a7d34d15a9a7a5b9bb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_423a6b9edece73a79df30e58bb9d5e85 = $(`<div id="html_423a6b9edece73a79df30e58bb9d5e85" style="width: 100.0%; height: 100.0%;">Edmonton<br>Temperature: 4.7°C<br>Description: Sunny</div>`)[0];
+                popup_def6819786a848a7d34d15a9a7a5b9bb.setContent(html_423a6b9edece73a79df30e58bb9d5e85);
+            
+        
+
+        marker_4a47e3fc10d4ef674b4a40a6650ba8bf.bindPopup(popup_def6819786a848a7d34d15a9a7a5b9bb)
+        ;
+
+        
+    
+    
+            var marker_8433e54d9df3d8d0cf6277dbde221b89 = L.marker(
+                [45.42, -75.7],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_1618a82c5ba3c0502867e188cc82cc6e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "cloud", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_8433e54d9df3d8d0cf6277dbde221b89.setIcon(icon_1618a82c5ba3c0502867e188cc82cc6e);
+        
+    
+        var popup_462fccdae1813a363cc6d58227b20a4e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_22598b5ec040d86593e4a8cdb8e57450 = $(`<div id="html_22598b5ec040d86593e4a8cdb8e57450" style="width: 100.0%; height: 100.0%;">Ottawa<br>Temperature: 1.0°C<br>Description: Partly cloudy</div>`)[0];
+                popup_462fccdae1813a363cc6d58227b20a4e.setContent(html_22598b5ec040d86593e4a8cdb8e57450);
+            
+        
+
+        marker_8433e54d9df3d8d0cf6277dbde221b89.bindPopup(popup_462fccdae1813a363cc6d58227b20a4e)
+        ;
+
+        
+    
+    
+            var marker_e4ec86660065f77503b5d716bb5e4d72 = L.marker(
+                [50.18, -66.63],
+                {}
+            ).addTo(map_85c0cc175f1ceda7307c302ce6564304);
+        
+    
+            var icon_13a62401bee393c211338e6f7e4722c1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "cloud", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_e4ec86660065f77503b5d716bb5e4d72.setIcon(icon_13a62401bee393c211338e6f7e4722c1);
+        
+    
+        var popup_6d4445b96e9f8490e1b52ccb7c90cf87 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a26ff3ac86a40a837dcbd77bb1850be4 = $(`<div id="html_a26ff3ac86a40a837dcbd77bb1850be4" style="width: 100.0%; height: 100.0%;">Quebec City<br>Temperature: 0.7°C<br>Description: Clear</div>`)[0];
+                popup_6d4445b96e9f8490e1b52ccb7c90cf87.setContent(html_a26ff3ac86a40a837dcbd77bb1850be4);
+            
+        
+
+        marker_e4ec86660065f77503b5d716bb5e4d72.bindPopup(popup_6d4445b96e9f8490e1b52ccb7c90cf87)
+        ;
+
+        
+    
+</script>
+</html>
