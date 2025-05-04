@@ -1,0 +1,98 @@
+Theoretical Model Creation Tool
+
+This tool is an advanced, terminal-based Python program designed to help users build and manage detailed scientific models. It allows for the creation of complex models involving a wide array of scientific concepts such as forces, systems, laws, and variables. The program supports the specification of attributes like constants, units, and error margins for each concept, providing a structured and precise way to define scientific principles. It also introduces dynamic states, where users can track how concepts evolve over time or under specific conditions, such as changes in temperature or pressure. The model builder allows users to define relationships between concepts (e.g., "affects," "depends on") and customize the way different elements of the model interact with each other, providing a rich, flexible tool for scientific simulation and theory exploration.
+
+This enhanced program goes beyond basic process modeling by offering features such as user-defined states and conditions, allowing users to incorporate more complex scenarios. It also includes advanced validation mechanisms that ensure the model’s consistency and scientific accuracy. By facilitating the integration of metadata and dynamic transitions, the program helps users create highly detailed theoretical models that reflect real-world phenomena. Whether it's for research, simulations, or educational purposes, the Theoretical Science Model Builder provides an intuitive, yet powerful platform for building and saving scientific models with an emphasis on clarity and precision.
+
+Key Features:
+
+1. Four architecture levels: Super, High, Medium, and Low.
+2. Customizable step types, descriptions, priorities, and theoretical parameters.
+3. Define theoretical concepts with attributes and dynamic states.
+4. Model the evolution of scientific processes with dynamic states.
+5. Validate models for theoretical consistency and scientific validity.
+6. Specify units, constants, error margins, and more.
+
+-----------------------------------------------------------------------------------------------------------
+
+Example: Chemical Reaction Model
+
+Concept: Chemical A
+Type: Reactant
+Description: A reactant involved in the reaction, initiating the process.
+Units: Moles (mol)
+Constants: None
+Attributes: Initial concentration = 1.0 M
+
+Concept: Chemical B
+Type: Reactant
+Description: A second reactant in the reaction.
+Units: Moles (mol)
+Constants: None
+Attributes: Initial concentration = 1.0 M
+
+Concept: Reaction Rate
+Type: Law
+Description: Rate of reaction between A and B, following the rate law.
+Units: Moles per second (mol/s)
+Constants: Rate constant = 0.5 L/mol/s
+Attributes: r = k[A][B]
+
+Concept: Product C
+Type: Product
+Description: The resulting product of the reaction.
+Units: Moles (mol)
+Constants: None
+Attributes: Final concentration = 0.8 M
+
+Dynamic States:
+- Reaction Rate = 0.5 M/s (Time-dependent: yes)
+- Product C = 0.8 M (Time-dependent: no)
+
+Relationships:
+- Chemical A affects Reaction Rate
+- Chemical B affects Reaction Rate
+- Reaction Rate leads to Product C
+
+-----------------------------------------------------------------------------------------------------------
+
+Example: Population Growth Model
+
+Population Growth Model
+
+Concept: Population Size
+Type: Variable
+Description: The number of individuals in the population.
+Units: Number of individuals (individuals)
+Constants: Carrying capacity = 1000 individuals
+Attributes: Initial population = 50 individuals
+
+Concept: Growth Rate
+Type: Parameter
+Description: The rate at which the population grows over time.
+Units: Growth rate per time unit (per day)
+Constants: None
+Attributes: Rate = 0.1 individuals/day
+
+Concept: Resources
+Type: Condition
+Description: The amount of resources available to sustain the population.
+Units: Resources per unit (unit)
+Constants: Total resources = 1000 units
+Attributes: Resource usage = 0.1 units per individual per day
+
+Concept: Carrying Capacity
+Type: Limit
+Description: The maximum sustainable population size given available resources.
+Units: Number of individuals (individuals)
+Constants: None
+Attributes: Carrying capacity = 1000 individuals
+
+Dynamic States:
+- Population Size = 50 individuals (Time-dependent: yes)
+- Growth Rate = 0.1 individuals/day (Time-dependent: yes)
+
+Relationships:
+- Population Size depends on Growth Rate
+- Resources limits Population Size
+- Carrying Capacity constrains Population Growth

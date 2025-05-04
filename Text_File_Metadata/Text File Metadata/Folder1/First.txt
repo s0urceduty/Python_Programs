@@ -1,0 +1,21 @@
+Example Storefront
+Address Anywhere, 8371 Example St.
+08/10/2023 01:52:37 EXPIRES 11/08/2023
+
+Category 
+8761153		42 Inch LED TV	 	544.32
+
+Category
+1737052		Clean Shampoo 		7.99
+
+Category
+7137227		Blutooth Adapter	4.99
+
+Subtotal: 				557.30
+Tax: 					73.75
+Total: 					631.05
+*8832 VISA CHARGE			631.05
+
+REC#9-5317-8315-4495-8717-8 VCD#785-632-866
+----------------------------------------------
+Thanks!
