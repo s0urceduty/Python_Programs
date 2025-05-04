@@ -1,0 +1,43 @@
+Detailed Step-by-Step Instruction List:
+
+1. Begin by selecting a color to start building the first layer of your 2x2 Rubik's Cube. For this tutorial, we will use white as the base color.
+
+2. Identify a white piece on the cube. Place this piece on the bottom layer to start the solving process.
+
+3. Look for another white piece in the top layer that has colors adjacent to the original white piece. For example, if the original white piece has red and blue, look for a white piece with red or blue adjacent colors.
+
+4. Position the identified white piece in the top layer directly above the spot where it should be placed on the bottom layer based on the adjacent colors.
+
+5. Hold the cube so that the piece to be moved is in the right hand, with your thumb on the bottom, and then repeat the following sequence of moves to transfer the piece from the top layer to the bottom layer:
+   - Turn the right side up
+   - Push the top layer with your right hand
+   - Turn the right side down
+   - Push the moved piece into place with your left hand
+
+6. Repeat the sequence of moves until the white piece is correctly placed in the first layer. This may require multiple repetitions.
+
+7. Continue this process for each white piece in the top layer, aligning them with the corresponding colors on the first layer.
+
+8. If you encounter a situation where a white piece is in the bottom layer but needs to be moved to the top layer, place it on the right side of the cube and repeat the sequence of moves to transfer it to the top layer without disrupting the solved pieces.
+
+9. Once the entire first layer is completed with all sides matching the correct colors, proceed to the last layer of the cube.
+
+10. Choose any corner piece in the bottom layer for reference. Identify the corresponding corner piece in the top layer and align it directly above the bottom layer piece.
+
+11. Check the other corner pieces in the top layer and count how many are in the correct spot. Aim to have all four corner pieces in the correct positions.
+
+12. If not all four corner pieces are correctly positioned, use the following algorithm to adjust the pieces:
+    - Hold the cube with the unsolved corner in the front right position
+    - Perform the algorithm, which involves turning the top and right sides up, then left, and finally down
+
+13. Repeat the algorithm until all four corner pieces are correctly positioned.
+
+14. Rotate the cube so that the yellow color is on the top layer. If necessary, hold an unsolved piece on the bottom right.
+
+15. Repeat the sequence of moves shown at the beginning of the tutorial to orient the yellow pieces on the top layer.
+
+16. Move on to solving the corners of the last layer by turning the bottom layer to access each corner piece individually, and repeat the sequence of moves for each corner until the entire last layer is solved.
+
+17. Practice these steps to improve your solving speed and consider exploring advanced methods for faster solving techniques.
+
+18. Check the video description for more resources on advanced methods and tips. Thank you for watching and happy solving!

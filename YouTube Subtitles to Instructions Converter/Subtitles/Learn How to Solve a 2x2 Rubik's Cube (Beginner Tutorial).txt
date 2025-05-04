@@ -1,0 +1,196 @@
+hey guys today I'll teach you how to
+solve the 2x2 Rubik's Cube using a
+beginner method so the first thing we'll
+do is build an entire layer on any color
+but I'm going to use white for this
+tutorial and what I mean by a layer is
+not only have this face salt and I'll be
+white but also have these colors around
+it line up so once your cube is
+scrambled I'm just going to start with
+white and I see white white white white
+so there are four options of which one I
+want to start with so I can just say I'm
+going to start with this one it doesn't
+matter which one you choose and then
+just put it on the bottom like this so
+that is going to be my first solved
+piece so once you choose which one you
+want to be solved look for white pieces
+in the top layer so for example we have
+this one over here so remember to keep
+this on the bottom at all times this
+white piece has green and red also on it
+look at your original soft piece and we
+have red and blue so the color they have
+in common is red because of that I want
+this piece to be next to the red here in
+other words this piece is going to be
+solved when it is over here so now what
+I'm going to do is turn the top layer so
+that it goes directly above the spot I
+said it was going to go in to because
+it's got red here and this red here so
+it's going to go next to it here now to
+move this one from the top into the
+bottom make sure you're holding it in
+your right hand like this not in your
+left hand and then repeat this sequence
+of moves make sure you get the sequence
+of moves down because it's going to be
+very important later on as well so hold
+your left hand like this and hold your
+right hand like this with your thumb on
+the bottom then repeat after me turn the
+right side up
+push the top with your right hand turn
+the right side down push this off with
+your left hand so you're going to repeat
+that until this corner is solved so do
+we see white on the bottom here no we
+don't so we're going to repeat
+and this is white on the bottom but it's
+not the piece we were looking for as you
+can see that's not the red piece so
+we're going to go again
+and there it is now we have a soft piece
+so what we can do is keep repeating this
+so we look in the top layer for white
+pieces we see white here and this has
+orange and blue on it so look at what
+we've already solved we have blue red
+and green so the color they have in
+common is blue
+so that means this one must go next to
+the blue piece over here
+so we're going to move the top until
+it's directly above that spot
+hold it in the right hand and then
+repeat those four moves until this one
+is in here
+so once
+and nope the White's not on the bottom
+yet twice three times four times five
+times sometimes it takes up to five
+times and then now it's in there and
+just make sure the colors here match as
+well and for example the last piece here
+we find a white piece and a top layer
+it's got orange and green so well
+there's only one last spot for it so
+we're just going to move it in here and
+repeat the four moves until it's in
+there
+and there we go there's the first layer
+one situation you can run into is your
+first layer is not done but there's no
+more white pieces in the top layer so in
+that case it might just be in the bottom
+layer and how to remove it into the top
+layer so you can do what you normally do
+is just put it on the right side like
+this and repeat the four moves that
+moves it up into the top layer without
+breaking your progress and then once
+it's in the top layer you can just put
+it into the spot it should go into
+normally so once you finish the first
+layer and check that all the sides here
+are the correct then we're going to move
+on to the last layer so focus on any
+particular bottom layer piece I'm going
+to choose this one which has red and
+green on it but it doesn't matter which
+one you pick then try and solve the
+corner that goes directly above it so
+we're going to turn the top layer until
+we see red and green and it's this one
+this one has yellow red and green now
+we're going to check every other piece
+on the top and see if they're in the
+correct spot and count how many we have
+so here we have red blue and this one's
+red blue so this one's correct blue
+orange not blue orange so this one's
+incorrect green orange not green orange
+so this one's also incorrect so in this
+case we happen to have two that are in
+the right spot so your goal for this
+step is to get all four in the correct
+spot if they all were in the right spot
+already then you're done this step but
+if you cannot get all four in the
+correct spot then you only want one in
+the correct spot not two like I have
+here so for example in this one I could
+just do another turn instead and we find
+that only this one is in the correct
+spot and every other one is in the wrong
+spot so this is good now sometimes you
+won't be able to get all four and you
+won't be able to get only one in that
+case you'll just do what I'm about to
+show from anywhere but if you only get
+one in the correct spot then you want to
+hold it on the front right like this
+next what you do is this algorithm
+that's quite easy to memorize because it
+has a nice pattern to it so turn the top
+with your right hand turn the right side
+up now repeat this with your left hand
+top with your left hand left side up now
+the exact same thing but all downwards
+this time so top of your right hand
+right side down top with your left hand
+left side down so once you've done this
+this one should still be in the correct
+spot but every other one should have
+moved so check if they're in the right
+spots and they're not so that means
+we're just going to repeat it again
+top of the right right side up top with
+the left left side up and then all down
+top of the right right side down top
+with left left side down and now we
+check them all again and they're all in
+the correct spot so what we do is see
+that okay all the top pieces have yellow
+on them here which means yellow is what
+goes on the top here so what we're going
+to do is turn it upside down and hold
+any unsolved piece here at the bottom
+right and so we're going to repeat the
+four moves that I showed in the
+beginning until the yellow here faces
+the bottom so I'm going to do it once
+like this
+twice
+three times
+four times
+and there we go now once this one is
+solved we're going to go on to the next
+corner but instead of just rotating the
+whole Cube to go to the next Corner this
+will mess up your whole Cube so instead
+we're just going to stay facing the same
+side but then turn the bottom only to
+grab the next Corner over
+then we're going to repeat until this
+corner is solved
+there we go it's solved and then we move
+on to the next one
+and repeat
+and there it is then that's the whole
+thing lastly if you want to get faster
+links are in the description for more
+advanced methods thanks for watching and
+I'll see you guys next time hey guys
+this video will be example solves for
+the 2x2 beginner method so I'm going to
+start by looking for white pieces to
+make the white layer and I can start
+with any piece I want put that on the
+bottom and then this is green and orange
+so I'll look in the top layer for
+another white piece and it's this one
+this one's

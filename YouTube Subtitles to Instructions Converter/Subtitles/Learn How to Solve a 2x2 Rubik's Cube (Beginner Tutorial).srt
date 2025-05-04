@@ -1,0 +1,783 @@
+1
+00:00:00,000 --> 00:00:01,620
+hey guys today I'll teach you how to
+
+2
+00:00:01,620 --> 00:00:03,300
+solve the 2x2 Rubik's Cube using a
+
+3
+00:00:03,300 --> 00:00:04,740
+beginner method so the first thing we'll
+
+4
+00:00:04,740 --> 00:00:06,779
+do is build an entire layer on any color
+
+5
+00:00:06,779 --> 00:00:08,280
+but I'm going to use white for this
+
+6
+00:00:08,280 --> 00:00:10,500
+tutorial and what I mean by a layer is
+
+7
+00:00:10,500 --> 00:00:12,240
+not only have this face salt and I'll be
+
+8
+00:00:12,240 --> 00:00:14,340
+white but also have these colors around
+
+9
+00:00:14,340 --> 00:00:15,900
+it line up so once your cube is
+
+10
+00:00:15,900 --> 00:00:17,039
+scrambled I'm just going to start with
+
+11
+00:00:17,039 --> 00:00:19,080
+white and I see white white white white
+
+12
+00:00:19,080 --> 00:00:21,539
+so there are four options of which one I
+
+13
+00:00:21,539 --> 00:00:23,580
+want to start with so I can just say I'm
+
+14
+00:00:23,580 --> 00:00:24,779
+going to start with this one it doesn't
+
+15
+00:00:24,779 --> 00:00:26,039
+matter which one you choose and then
+
+16
+00:00:26,039 --> 00:00:28,080
+just put it on the bottom like this so
+
+17
+00:00:28,080 --> 00:00:29,760
+that is going to be my first solved
+
+18
+00:00:29,760 --> 00:00:31,380
+piece so once you choose which one you
+
+19
+00:00:31,380 --> 00:00:32,940
+want to be solved look for white pieces
+
+20
+00:00:32,940 --> 00:00:34,980
+in the top layer so for example we have
+
+21
+00:00:34,980 --> 00:00:37,260
+this one over here so remember to keep
+
+22
+00:00:37,260 --> 00:00:39,360
+this on the bottom at all times this
+
+23
+00:00:39,360 --> 00:00:42,300
+white piece has green and red also on it
+
+24
+00:00:42,300 --> 00:00:44,340
+look at your original soft piece and we
+
+25
+00:00:44,340 --> 00:00:46,620
+have red and blue so the color they have
+
+26
+00:00:46,620 --> 00:00:49,079
+in common is red because of that I want
+
+27
+00:00:49,079 --> 00:00:51,420
+this piece to be next to the red here in
+
+28
+00:00:51,420 --> 00:00:52,739
+other words this piece is going to be
+
+29
+00:00:52,739 --> 00:00:55,140
+solved when it is over here so now what
+
+30
+00:00:55,140 --> 00:00:57,000
+I'm going to do is turn the top layer so
+
+31
+00:00:57,000 --> 00:00:59,280
+that it goes directly above the spot I
+
+32
+00:00:59,280 --> 00:01:00,539
+said it was going to go in to because
+
+33
+00:01:00,539 --> 00:01:02,460
+it's got red here and this red here so
+
+34
+00:01:02,460 --> 00:01:04,140
+it's going to go next to it here now to
+
+35
+00:01:04,140 --> 00:01:05,460
+move this one from the top into the
+
+36
+00:01:05,460 --> 00:01:06,840
+bottom make sure you're holding it in
+
+37
+00:01:06,840 --> 00:01:08,280
+your right hand like this not in your
+
+38
+00:01:08,280 --> 00:01:10,260
+left hand and then repeat this sequence
+
+39
+00:01:10,260 --> 00:01:11,880
+of moves make sure you get the sequence
+
+40
+00:01:11,880 --> 00:01:13,140
+of moves down because it's going to be
+
+41
+00:01:13,140 --> 00:01:14,939
+very important later on as well so hold
+
+42
+00:01:14,939 --> 00:01:16,680
+your left hand like this and hold your
+
+43
+00:01:16,680 --> 00:01:17,939
+right hand like this with your thumb on
+
+44
+00:01:17,939 --> 00:01:20,400
+the bottom then repeat after me turn the
+
+45
+00:01:20,400 --> 00:01:21,540
+right side up
+
+46
+00:01:21,540 --> 00:01:23,520
+push the top with your right hand turn
+
+47
+00:01:23,520 --> 00:01:25,439
+the right side down push this off with
+
+48
+00:01:25,439 --> 00:01:27,479
+your left hand so you're going to repeat
+
+49
+00:01:27,479 --> 00:01:29,340
+that until this corner is solved so do
+
+50
+00:01:29,340 --> 00:01:31,140
+we see white on the bottom here no we
+
+51
+00:01:31,140 --> 00:01:33,920
+don't so we're going to repeat
+
+52
+00:01:36,420 --> 00:01:38,579
+and this is white on the bottom but it's
+
+53
+00:01:38,579 --> 00:01:39,900
+not the piece we were looking for as you
+
+54
+00:01:39,900 --> 00:01:41,579
+can see that's not the red piece so
+
+55
+00:01:41,579 --> 00:01:44,360
+we're going to go again
+
+56
+00:01:44,759 --> 00:01:46,740
+and there it is now we have a soft piece
+
+57
+00:01:46,740 --> 00:01:48,479
+so what we can do is keep repeating this
+
+58
+00:01:48,479 --> 00:01:50,040
+so we look in the top layer for white
+
+59
+00:01:50,040 --> 00:01:52,439
+pieces we see white here and this has
+
+60
+00:01:52,439 --> 00:01:54,659
+orange and blue on it so look at what
+
+61
+00:01:54,659 --> 00:01:56,520
+we've already solved we have blue red
+
+62
+00:01:56,520 --> 00:01:58,380
+and green so the color they have in
+
+63
+00:01:58,380 --> 00:01:59,640
+common is blue
+
+64
+00:01:59,640 --> 00:02:01,560
+so that means this one must go next to
+
+65
+00:02:01,560 --> 00:02:03,659
+the blue piece over here
+
+66
+00:02:03,659 --> 00:02:05,100
+so we're going to move the top until
+
+67
+00:02:05,100 --> 00:02:06,899
+it's directly above that spot
+
+68
+00:02:06,899 --> 00:02:08,879
+hold it in the right hand and then
+
+69
+00:02:08,879 --> 00:02:10,500
+repeat those four moves until this one
+
+70
+00:02:10,500 --> 00:02:11,819
+is in here
+
+71
+00:02:11,819 --> 00:02:14,040
+so once
+
+72
+00:02:14,040 --> 00:02:15,480
+and nope the White's not on the bottom
+
+73
+00:02:15,480 --> 00:02:20,340
+yet twice three times four times five
+
+74
+00:02:20,340 --> 00:02:21,840
+times sometimes it takes up to five
+
+75
+00:02:21,840 --> 00:02:23,280
+times and then now it's in there and
+
+76
+00:02:23,280 --> 00:02:24,540
+just make sure the colors here match as
+
+77
+00:02:24,540 --> 00:02:26,160
+well and for example the last piece here
+
+78
+00:02:26,160 --> 00:02:27,720
+we find a white piece and a top layer
+
+79
+00:02:27,720 --> 00:02:29,640
+it's got orange and green so well
+
+80
+00:02:29,640 --> 00:02:31,080
+there's only one last spot for it so
+
+81
+00:02:31,080 --> 00:02:32,280
+we're just going to move it in here and
+
+82
+00:02:32,280 --> 00:02:33,720
+repeat the four moves until it's in
+
+83
+00:02:33,720 --> 00:02:35,900
+there
+
+84
+00:02:38,040 --> 00:02:39,840
+and there we go there's the first layer
+
+85
+00:02:39,840 --> 00:02:41,459
+one situation you can run into is your
+
+86
+00:02:41,459 --> 00:02:43,019
+first layer is not done but there's no
+
+87
+00:02:43,019 --> 00:02:45,239
+more white pieces in the top layer so in
+
+88
+00:02:45,239 --> 00:02:46,560
+that case it might just be in the bottom
+
+89
+00:02:46,560 --> 00:02:48,480
+layer and how to remove it into the top
+
+90
+00:02:48,480 --> 00:02:49,920
+layer so you can do what you normally do
+
+91
+00:02:49,920 --> 00:02:51,540
+is just put it on the right side like
+
+92
+00:02:51,540 --> 00:02:54,000
+this and repeat the four moves that
+
+93
+00:02:54,000 --> 00:02:55,379
+moves it up into the top layer without
+
+94
+00:02:55,379 --> 00:02:57,000
+breaking your progress and then once
+
+95
+00:02:57,000 --> 00:02:58,260
+it's in the top layer you can just put
+
+96
+00:02:58,260 --> 00:02:59,519
+it into the spot it should go into
+
+97
+00:02:59,519 --> 00:03:01,319
+normally so once you finish the first
+
+98
+00:03:01,319 --> 00:03:02,700
+layer and check that all the sides here
+
+99
+00:03:02,700 --> 00:03:03,900
+are the correct then we're going to move
+
+100
+00:03:03,900 --> 00:03:06,239
+on to the last layer so focus on any
+
+101
+00:03:06,239 --> 00:03:07,680
+particular bottom layer piece I'm going
+
+102
+00:03:07,680 --> 00:03:09,239
+to choose this one which has red and
+
+103
+00:03:09,239 --> 00:03:10,440
+green on it but it doesn't matter which
+
+104
+00:03:10,440 --> 00:03:12,720
+one you pick then try and solve the
+
+105
+00:03:12,720 --> 00:03:14,400
+corner that goes directly above it so
+
+106
+00:03:14,400 --> 00:03:15,480
+we're going to turn the top layer until
+
+107
+00:03:15,480 --> 00:03:17,519
+we see red and green and it's this one
+
+108
+00:03:17,519 --> 00:03:19,620
+this one has yellow red and green now
+
+109
+00:03:19,620 --> 00:03:21,000
+we're going to check every other piece
+
+110
+00:03:21,000 --> 00:03:22,200
+on the top and see if they're in the
+
+111
+00:03:22,200 --> 00:03:23,640
+correct spot and count how many we have
+
+112
+00:03:23,640 --> 00:03:25,440
+so here we have red blue and this one's
+
+113
+00:03:25,440 --> 00:03:27,900
+red blue so this one's correct blue
+
+114
+00:03:27,900 --> 00:03:29,879
+orange not blue orange so this one's
+
+115
+00:03:29,879 --> 00:03:32,519
+incorrect green orange not green orange
+
+116
+00:03:32,519 --> 00:03:34,379
+so this one's also incorrect so in this
+
+117
+00:03:34,379 --> 00:03:36,299
+case we happen to have two that are in
+
+118
+00:03:36,299 --> 00:03:37,860
+the right spot so your goal for this
+
+119
+00:03:37,860 --> 00:03:39,360
+step is to get all four in the correct
+
+120
+00:03:39,360 --> 00:03:41,459
+spot if they all were in the right spot
+
+121
+00:03:41,459 --> 00:03:43,080
+already then you're done this step but
+
+122
+00:03:43,080 --> 00:03:44,400
+if you cannot get all four in the
+
+123
+00:03:44,400 --> 00:03:46,080
+correct spot then you only want one in
+
+124
+00:03:46,080 --> 00:03:47,819
+the correct spot not two like I have
+
+125
+00:03:47,819 --> 00:03:49,680
+here so for example in this one I could
+
+126
+00:03:49,680 --> 00:03:52,080
+just do another turn instead and we find
+
+127
+00:03:52,080 --> 00:03:53,580
+that only this one is in the correct
+
+128
+00:03:53,580 --> 00:03:55,260
+spot and every other one is in the wrong
+
+129
+00:03:55,260 --> 00:03:57,720
+spot so this is good now sometimes you
+
+130
+00:03:57,720 --> 00:03:59,159
+won't be able to get all four and you
+
+131
+00:03:59,159 --> 00:04:00,959
+won't be able to get only one in that
+
+132
+00:04:00,959 --> 00:04:02,220
+case you'll just do what I'm about to
+
+133
+00:04:02,220 --> 00:04:04,439
+show from anywhere but if you only get
+
+134
+00:04:04,439 --> 00:04:06,180
+one in the correct spot then you want to
+
+135
+00:04:06,180 --> 00:04:07,680
+hold it on the front right like this
+
+136
+00:04:07,680 --> 00:04:09,299
+next what you do is this algorithm
+
+137
+00:04:09,299 --> 00:04:10,920
+that's quite easy to memorize because it
+
+138
+00:04:10,920 --> 00:04:12,840
+has a nice pattern to it so turn the top
+
+139
+00:04:12,840 --> 00:04:14,640
+with your right hand turn the right side
+
+140
+00:04:14,640 --> 00:04:17,639
+up now repeat this with your left hand
+
+141
+00:04:17,639 --> 00:04:20,220
+top with your left hand left side up now
+
+142
+00:04:20,220 --> 00:04:21,959
+the exact same thing but all downwards
+
+143
+00:04:21,959 --> 00:04:23,520
+this time so top of your right hand
+
+144
+00:04:23,520 --> 00:04:25,740
+right side down top with your left hand
+
+145
+00:04:25,740 --> 00:04:27,720
+left side down so once you've done this
+
+146
+00:04:27,720 --> 00:04:29,040
+this one should still be in the correct
+
+147
+00:04:29,040 --> 00:04:30,360
+spot but every other one should have
+
+148
+00:04:30,360 --> 00:04:31,800
+moved so check if they're in the right
+
+149
+00:04:31,800 --> 00:04:33,660
+spots and they're not so that means
+
+150
+00:04:33,660 --> 00:04:35,220
+we're just going to repeat it again
+
+151
+00:04:35,220 --> 00:04:37,620
+top of the right right side up top with
+
+152
+00:04:37,620 --> 00:04:39,660
+the left left side up and then all down
+
+153
+00:04:39,660 --> 00:04:42,180
+top of the right right side down top
+
+154
+00:04:42,180 --> 00:04:44,520
+with left left side down and now we
+
+155
+00:04:44,520 --> 00:04:46,680
+check them all again and they're all in
+
+156
+00:04:46,680 --> 00:04:48,479
+the correct spot so what we do is see
+
+157
+00:04:48,479 --> 00:04:50,220
+that okay all the top pieces have yellow
+
+158
+00:04:50,220 --> 00:04:52,199
+on them here which means yellow is what
+
+159
+00:04:52,199 --> 00:04:54,120
+goes on the top here so what we're going
+
+160
+00:04:54,120 --> 00:04:56,460
+to do is turn it upside down and hold
+
+161
+00:04:56,460 --> 00:04:59,100
+any unsolved piece here at the bottom
+
+162
+00:04:59,100 --> 00:05:01,259
+right and so we're going to repeat the
+
+163
+00:05:01,259 --> 00:05:02,340
+four moves that I showed in the
+
+164
+00:05:02,340 --> 00:05:04,740
+beginning until the yellow here faces
+
+165
+00:05:04,740 --> 00:05:06,660
+the bottom so I'm going to do it once
+
+166
+00:05:06,660 --> 00:05:09,020
+like this
+
+167
+00:05:09,240 --> 00:05:11,400
+twice
+
+168
+00:05:11,400 --> 00:05:13,139
+three times
+
+169
+00:05:13,139 --> 00:05:14,820
+four times
+
+170
+00:05:14,820 --> 00:05:16,860
+and there we go now once this one is
+
+171
+00:05:16,860 --> 00:05:18,479
+solved we're going to go on to the next
+
+172
+00:05:18,479 --> 00:05:20,400
+corner but instead of just rotating the
+
+173
+00:05:20,400 --> 00:05:22,139
+whole Cube to go to the next Corner this
+
+174
+00:05:22,139 --> 00:05:23,880
+will mess up your whole Cube so instead
+
+175
+00:05:23,880 --> 00:05:25,860
+we're just going to stay facing the same
+
+176
+00:05:25,860 --> 00:05:28,199
+side but then turn the bottom only to
+
+177
+00:05:28,199 --> 00:05:30,060
+grab the next Corner over
+
+178
+00:05:30,060 --> 00:05:31,380
+then we're going to repeat until this
+
+179
+00:05:31,380 --> 00:05:34,100
+corner is solved
+
+180
+00:05:37,860 --> 00:05:39,539
+there we go it's solved and then we move
+
+181
+00:05:39,539 --> 00:05:40,979
+on to the next one
+
+182
+00:05:40,979 --> 00:05:43,639
+and repeat
+
+183
+00:05:47,400 --> 00:05:49,680
+and there it is then that's the whole
+
+184
+00:05:49,680 --> 00:05:51,539
+thing lastly if you want to get faster
+
+185
+00:05:51,539 --> 00:05:53,220
+links are in the description for more
+
+186
+00:05:53,220 --> 00:05:55,139
+advanced methods thanks for watching and
+
+187
+00:05:55,139 --> 00:05:57,000
+I'll see you guys next time hey guys
+
+188
+00:05:57,000 --> 00:05:58,620
+this video will be example solves for
+
+189
+00:05:58,620 --> 00:06:00,419
+the 2x2 beginner method so I'm going to
+
+190
+00:06:00,419 --> 00:06:01,680
+start by looking for white pieces to
+
+191
+00:06:01,680 --> 00:06:02,819
+make the white layer and I can start
+
+192
+00:06:02,819 --> 00:06:04,500
+with any piece I want put that on the
+
+193
+00:06:04,500 --> 00:06:06,840
+bottom and then this is green and orange
+
+194
+00:06:06,840 --> 00:06:08,280
+so I'll look in the top layer for
+
+195
+00:06:08,280 --> 00:06:09,720
+another white piece and it's this one
+
+196
+00:06:09,720 --> 00:06:12,380
+this one's
