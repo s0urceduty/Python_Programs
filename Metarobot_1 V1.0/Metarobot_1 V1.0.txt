@@ -1,0 +1,18 @@
+metarobot-cli/
+├── metarobot.py       # Main entry point
+├── commands/          # Subcommands implementation
+│   ├── __init__.py
+│   ├── system.py      # System management commands
+│   ├── tasks.py       # Task-related commands
+│   ├── monitor.py     # Monitoring-related commands
+│   └── data.py        # Data management commands
+├── utils/             # Utility modules
+│   ├── logger.py      # Logging and error tracking
+│   └── config.py      # Configuration file handling
+├── tests/             # Unit tests
+│   ├── test_system.py
+│   ├── test_tasks.py
+│   └── test_monitor.py
+└── requirements.txt   # Python dependencies
+
+The Metarobot CLI is an interactive command-line interface designed for managing and controlling robotic systems in the field of Computational Metarobotics. It provides a powerful yet simple tool for researchers and operators to interact with individual robots or swarms, enabling tasks such as system initialization, task assignment, real-time monitoring, and data retrieval. With its modular structure, the program separates core functionalities into reusable components for system management, task handling, and monitoring, making it scalable and adaptable to various robotic applications. Built with Python, it emphasizes usability and extensibility, allowing users to operate in dynamic and complex environments while maintaining control over robotic behaviors. This CLI is especially suited for robotics research and applications requiring collaboration between robots in unpredictable or challenging settings, such as disaster response, environmental monitoring, and automated exploration.

@@ -1,0 +1,10 @@
+Category: Intelligence Type
+Artificial Narrow Intelligence
+Category: Machine Learning Model
+Unsupervised Learning
+Category: Machine Learning Type
+Motor Learning
+Category: Reasoning Type
+Inductive
+Category: Problem Solving Model
+Classification
