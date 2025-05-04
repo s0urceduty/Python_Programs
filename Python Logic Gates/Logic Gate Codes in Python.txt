@@ -1,0 +1,312 @@
+_____________________________________________________________
+
+Logic Gate Codes in Python
+_____________________________________________________________
+
+
+AND logic gate code:
+
+The AND logic gate prints an output of 1 if both input operands are 1.
+
+Operation:
+
+def AND (a, b):
+ 
+    if a == 0 and b == 0:
+        return False
+    else:
+        return True
+        
+    if a == 1 and b == 0:
+        return False
+    else:
+        return True
+    
+    if a == 0 and b == 1:
+        return False
+    else:
+        return True
+        
+    if a == 1 and b == 1:
+        return True
+    else:
+        return False
+        
+if __name__=='__main__':
+    print(AND(1, 1))
+
+
+Truth table: 
+
++-----+-----+---------+
+|  A  |  B  |  Output |
+|-----+-----+---------|
+|  0  |  0  |    0    |
+|  1  |  0  |    0    |
+|  0  |  1  |    0    |
+|  1  |  1  |    1    |
++-----+-----+---------+
+
+_____________________________________________________________
+
+
+OR logic gate code:
+
+The OR logic gate prints an output of 1 if either input operands are 1. This gate also prints an output of 1 when both input operands are 1.
+
+Operation:
+
+def AND (a, b):
+ 
+    if a == 0 and b == 0:
+        return False
+    else:
+        return True
+        
+    if a == 1 and b == 0:
+        return True
+    else:
+        return False
+    
+    if a == 0 and b == 1:
+        return True
+    else:
+        return False
+        
+    if a == 1 and b == 1:
+        return True
+    else:
+        return False
+        
+if __name__=='__main__':
+    print(AND(1, 1))
+
+
+Truth table: 
+
+
++-----+-----+---------+
+|  A  |  B  |  Output |
+|-----+-----+---------|
+|  0  |  0  |    0    |
+|  1  |  0  |    1    |
+|  0  |  1  |    1    |
+|  1  |  1  |    1    |
++-----+-----+---------+
+
+_____________________________________________________________
+
+NAND logic gate code:
+
+The AND logic gate prints an output of 0 if both input operands are 1.
+
+Operation:
+
+def AND (a, b):
+ 
+    if a == 0 and b == 0:
+        return True
+    else:
+        return False
+        
+    if a == 1 and b == 0:
+        return True
+    else:
+        return False
+    
+    if a == 0 and b == 1:
+        return True
+    else:
+        return False
+        
+    if a == 1 and b == 1:
+        return False
+    else:
+        return True
+        
+if __name__=='__main__':
+    print(AND(1, 1))
+
+
+Truth table: 
+
+
++-----+-----+---------+
+|  A  |  B  |  Output |
+|-----+-----+---------|
+|  0  |  0  |    1    |
+|  1  |  0  |    1    |
+|  0  |  1  |    1    |
+|  1  |  1  |    0    |
++-----+-----+---------+
+
+
+_____________________________________________________________
+
+NOR logic gate code:
+
+The OR logic gate prints an output of 1 if either input operands are 0. This gate also prints an output of 0 when both input operands are 1.
+
+Operation:
+
+def AND (a, b):
+ 
+    if a == 0 and b == 0:
+        return True
+    else:
+        return False
+        
+    if a == 1 and b == 0:
+        return False
+    else:
+        return True
+    
+    if a == 0 and b == 1:
+        return False
+    else:
+        return True
+        
+    if a == 1 and b == 1:
+        return False
+    else:
+        return True
+        
+if __name__=='__main__':
+    print(AND(1, 1))
+
+
+Truth table: 
+
++-----+-----+---------+
+|  A  |  B  |  Output |
+|-----+-----+---------|
+|  0  |  0  |    1    |
+|  1  |  0  |    0    |
+|  0  |  1  |    0    |
+|  1  |  1  |    0    |
++-----+-----+---------+
+
+_____________________________________________________________
+
+XOR logic gate code:
+
+Operation:
+
+def AND (a, b):
+ 
+    if a == 0 and b == 0:
+        return False
+    else:
+        return False
+        
+    if a == 1 and b == 0:
+        return True
+    else:
+        return False
+    
+    if a == 0 and b == 1:
+        return True
+    else:
+        return False
+        
+    if a == 1 and b == 1:
+        return False
+    else:
+        return True
+        
+if __name__=='__main__':
+    print(AND(1, 1))
+
+
+Truth table: 
+
++-----+-----+---------+
+|  A  |  B  |  Output |
+|-----+-----+---------|
+|  0  |  0  |    0    |
+|  1  |  0  |    1    |
+|  0  |  1  |    1    |
+|  1  |  1  |    0    |
++-----+-----+---------+
+
+
+_____________________________________________________________
+
+
+XNOR logic gate code:
+
+Operation:
+
+def AND (a, b):
+ 
+    if a == 0 and b == 1:
+        return True
+    else:
+        return False
+        
+    if a == 1 and b == 0:
+        return True
+    else:
+        return False
+    
+    if a == 1 and b == 0:
+        return False
+    else:
+        return True
+        
+    if a == 1 and b == 1:
+        return True
+    else:
+        return True
+        
+if __name__=='__main__':
+    print(AND(1, 1))
+
+
+Truth table: 
+
++-----+-----+---------+
+|  A  |  B  |  Output |
+|-----+-----+---------|
+|  0  |  0  |    1    |
+|  1  |  0  |    0    |
+|  0  |  1  |    0    |
+|  1  |  1  |    1    |
++-----+-----+---------+
+
+_____________________________________________________________
+
+Inverter logic gate:
+
+Operation:
+
+def AND (a, b):
+    
+    if a == 0 and b == 0:
+        return True
+    else:
+        return False
+        
+    if a == 1 and b == 0:
+        return False
+    else:
+        return True
+        
+if __name__=='__main__':
+    print(AND(1, 1))
+
+
+Truth table: 
+
++-----+-----+---------+
+|  A  |  B  |  Output |
+|-----+-----+---------|
+|  0  |  0  |    1    |
+|  1  |  0  |    0    |
++-----+-----+---------+
+
+_____________________________________________________________
+
+
+ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
+
