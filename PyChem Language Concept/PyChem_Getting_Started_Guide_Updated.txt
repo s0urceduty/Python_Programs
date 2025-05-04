@@ -1,0 +1,28 @@
+
+# Getting Started with PyChem
+
+## Installation
+To install PyChem, ensure that you have Python installed on your computer. Then run:
+```bash
+pip install pychem
+```
+
+## Writing Your First Script
+Here's how to write a simple reaction in PyChem:
+
+```pychem
+Substance H2 = "Hydrogen";
+Substance O2 = "Oxygen";
+Reaction waterFormation = H2 + O2 -> 2 * H2O;
+waterFormation.execute();
+```
+
+This script demonstrates the formation of water from hydrogen and oxygen.
+
+## Running Your Script
+Save the above script as 'water_formation.pc' and run it using the following command:
+```bash
+pychem water_formation.pc
+```
+
+You will see the output describing the reaction process and the products.

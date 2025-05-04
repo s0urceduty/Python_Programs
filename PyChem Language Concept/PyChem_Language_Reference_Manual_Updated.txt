@@ -1,0 +1,25 @@
+
+# PyChem Language Reference Manual
+
+## Overview
+PyChem is designed to intuitively express and compute chemical reactions using a syntax familiar to chemists and chemical engineers, without relying on external libraries.
+
+## Data Types
+- `Substance`: Represents a chemical compound or element.
+- `Reaction`: Describes chemical reactions between substances.
+- `Condition`: Specifies conditions under which reactions occur.
+
+## Syntax
+- Substance declarations: `Substance <name> = "<formula>";`
+- Reaction syntax: `Reaction <name> = <reactant> + <reactant> -> <product>;`
+- Applying conditions: `<reaction_name>.under(<condition>);`
+
+## Example
+Here is an example demonstrating the esterification process:
+```pychem
+Substance ethanol = "C2H5OH";
+Substance aceticAcid = "CH3COOH";
+Reaction esterification = ethanol + aceticAcid -> ethylAcetate + water;
+esterification.under(heat(78°C), catalyst("H2SO4"));
+esterification.execute();
+```

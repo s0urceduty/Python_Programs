@@ -1,0 +1,14 @@
+
+# PyChem Developer Guide
+
+## Contributing
+Contributors are welcome to improve PyChem by submitting patches, features, or bug fixes. Fork the repository, make your changes, and submit a pull request.
+
+## Coding Standards
+- Use descriptive variable names.
+- Follow PEP8 guidelines for Python code.
+- Document functions with docstrings.
+
+## Testing
+- Write unit tests for new features using pytest.
+- Ensure comprehensive coverage and run tests before submitting pull requests.

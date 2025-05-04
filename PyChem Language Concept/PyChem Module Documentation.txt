@@ -1,0 +1,43 @@
+PyChem Module Documentation
+
+#### Introduction
+PyChem is a Python module designed specifically for chemists and chemical engineers. It simplifies expressing and computing chemical reactions through an intuitive syntax and specialized functionalities such as reaction balancing and chemical equation parsing.
+
+#### Installation
+Currently, PyChem is a custom module and not available via standard package repositories. To use PyChem, copy the module files into your project directory or include them in your Python environment’s site-packages.
+
+#### Basic Usage
+PyChem provides classes and functions to create chemical substances, parse chemical equations, and balance them. Below are the main components:
+
+- **Substance**: Represents a chemical substance.
+  - Usage: `substance = Substance('H2O', 'Water')`
+
+- **Reaction**: Represents a chemical reaction, capable of storing reactants and products.
+  - Usage: `reaction = Reaction({Substance('H2'): 2, Substance('O2'): 1}, {Substance('H2O'): 2})`
+
+- **ChemicalEquationParser**: Parses string representations of chemical equations into Reaction objects.
+  - Usage: `parser = ChemicalEquationParser()`
+  - `parsed_reaction = parser.parse("2 H2 + O2 -> 2 H2O")`
+
+#### Example: Balancing a Chemical Reaction
+To demonstrate balancing a reaction:
+
+```python
+# Create instances of substances
+hydrogen = Substance('H2', 'Hydrogen')
+oxygen = Substance('O2', 'Oxygen')
+water = Substance('H2O', 'Water')
+
+# Write the reaction
+reaction = Reaction({hydrogen: 2, oxygen: 1}, {water: 2})
+
+# Check if the reaction needs balancing (this step is conceptual; actual function to check balance needed)
+print("Balanced Reaction:", reaction)
+
+### Local Installation for Immediate Use
+
+You can simply place the PyChemModule.py file in your project directory or any directory where Python can find it. Then, you can import and use it directly in your scripts.
+
+Here’s how you can import the module after placing it in your project directory:
+
+from PyChemModule import Substance, Reaction, ChemicalEquationParser
