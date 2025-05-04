@@ -1,0 +1,63 @@
+Sourceduty Notepad V4.0 is a versatile text editor designed to cater to a wide range of professional and personal needs. With its modern interface and robust feature set, it offers users a powerful tool for creating, managing, and exporting text documents. The application supports various file formats including TXT, DOCX, CSV, PDF, and more, allowing users to handle different types of documents seamlessly. Its support for light and dark modes ensures that users can work comfortably in any lighting condition, enhancing productivity and reducing eye strain.
+
+One of the standout features of Sourceduty Notepad V4.0 is its comprehensive template management system. Users can choose from a diverse array of templates tailored for different industries and purposes, such as business meeting notes, project plans, educational lecture notes, and creative writing outlines. This feature simplifies the document creation process by providing pre-defined structures, making it easier to produce professional-quality documents without starting from scratch. Additionally, the application includes a customizable process template to fit specific project needs, further enhancing its utility.
+
+The program also includes advanced text statistics and a password generator to support various user needs. The text statistics tool provides detailed information on character, word, and line counts, which is particularly useful for writers and editors who need to track their work progress. The integrated password generator helps users create secure passwords for their documents or other applications, adding an extra layer of security. These features are designed to streamline workflows and improve efficiency, making Sourceduty Notepad V4.0 a valuable tool for both personal and professional use.
+
+Sourceduty Notepad V4.0 distinguishes itself with its intuitive user interface and live timer functionality. The footer displays real-time updates on total time spent working on a document and the current line number, allowing users to keep track of their work sessions without interrupting their workflow. This live timer, along with the ability to export documents in multiple formats, ensures that users have all the tools they need to manage their work effectively and flexibly. Overall, Sourceduty Notepad V4.0 is a powerful text editing solution that combines ease of use with a rich set of features to meet diverse needs.
+
+Format Conversion Table
+
++---------------------+---------------------------------+---------------------------------+
+| Opened Format       | Converts To .txt                | Can Export To                  |
++---------------------+---------------------------------+---------------------------------+
+| .txt (Text File)    | .txt                            | .txt, .md (Markdown),          |
+|                     |                                 | .docx (Word Document),         |
+|                     |                                 | .pdf (PDF Document),           |
+|                     |                                 | .csv (CSV File),               |
+|                     |                                 | .html (HTML File),             |
+|                     |                                 | .json (JSON File)              |
++---------------------+---------------------------------+---------------------------------+
+| .md (Markdown)      | .txt                            | .txt, .md (Markdown),          |
+|                     |                                 | .docx (Word Document),         |
+|                     |                                 | .pdf (PDF Document),           |
+|                     |                                 | .csv (CSV File),               |
+|                     |                                 | .html (HTML File),             |
+|                     |                                 | .json (JSON File)              |
++---------------------+---------------------------------+---------------------------------+
+| .docx (Word)        | .txt                            | .txt, .md (Markdown),          |
+|                     |                                 | .docx (Word Document),         |
+|                     |                                 | .pdf (PDF Document),           |
+|                     |                                 | .csv (CSV File),               |
+|                     |                                 | .html (HTML File),             |
+|                     |                                 | .json (JSON File)              |
++---------------------+---------------------------------+---------------------------------+
+| .pdf (PDF)          | .txt                            | .txt, .md (Markdown),          |
+|                     |                                 | .docx (Word Document),         |
+|                     |                                 | .pdf (PDF Document),           |
+|                     |                                 | .csv (CSV File),               |
+|                     |                                 | .html (HTML File),             |
+|                     |                                 | .json (JSON File)              |
++---------------------+---------------------------------+---------------------------------+
+| .csv (CSV)          | .txt                            | .txt, .md (Markdown),          |
+|                     |                                 | .docx (Word Document),         |
+|                     |                                 | .pdf (PDF Document),           |
+|                     |                                 | .csv (CSV File),               |
+|                     |                                 | .html (HTML File),             |
+|                     |                                 | .json (JSON File)              |
++---------------------+---------------------------------+---------------------------------+
+| .html (HTML)        | .txt                            | .txt, .md (Markdown),          |
+|                     |                                 | .docx (Word Document),         |
+|                     |                                 | .pdf (PDF Document),           |
+|                     |                                 | .csv (CSV File),               |
+|                     |                                 | .html (HTML File),             |
+|                     |                                 | .json (JSON File)              |
++---------------------+---------------------------------+---------------------------------+
+| .json (JSON)        | .txt                            | .txt, .md (Markdown),          |
+|                     |                                 | .docx (Word Document),         |
+|                     |                                 | .pdf (PDF Document),           |
+|                     |                                 | .csv (CSV File),               |
+|                     |                                 | .html (HTML File),             |
+|                     |                                 | .json (JSON File)              |
++---------------------+---------------------------------+---------------------------------+
+

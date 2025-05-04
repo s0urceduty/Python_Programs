@@ -1,0 +1,126 @@
+{
+  "Five-Factor Model (Big Five)": {
+    "Openness to Experience": {
+      "options": {
+        "High": "Creative, curious, willing to try new things.",
+        "Moderate": "Open to new experiences but within comfort zone.",
+        "Low": "Prefers routine, practical, conservative."
+      },
+      "selected": "High"
+    },
+    "Conscientiousness": {
+      "options": {
+        "High": "Organized, dependable, disciplined.",
+        "Moderate": "Generally reliable, occasionally disorganized.",
+        "Low": "Impulsive, disorganized, flexible."
+      },
+      "selected": "Moderate"
+    },
+    "Extraversion": {
+      "options": {
+        "High": "Sociable, assertive, enthusiastic.",
+        "Moderate": "Socially balanced, enjoys both solitude and social interaction.",
+        "Low": "Reserved, reflective, introverted."
+      },
+      "selected": "High"
+    },
+    "Agreeableness": {
+      "options": {
+        "High": "Compassionate, cooperative, trusting.",
+        "Moderate": "Generally kind but can be critical.",
+        "Low": "Critical, competitive, skeptical."
+      },
+      "selected": "Low"
+    },
+    "Neuroticism": {
+      "options": {
+        "High": "Anxious, moodiness, emotional instability.",
+        "Moderate": "Occasionally stressed, generally stable.",
+        "Low": "Calm, emotionally stable, resilient."
+      },
+      "selected": "Moderate"
+    }
+  },
+  "Freud's Structural Model": {
+    "Id": {
+      "options": {
+        "Dominant": "Driven by instinctual desires, pleasure-seeking.",
+        "Balanced": "Occasional indulgence in desires.",
+        "Repressed": "Minimal indulgence in instinctual desires."
+      },
+      "selected": "Repressed"
+    },
+    "Ego": {
+      "options": {
+        "Dominant": "Practical, reality-oriented, mediates well.",
+        "Balanced": "Sometimes practical, occasionally conflicted.",
+        "Weak": "Struggles to mediate between id and superego."
+      },
+      "selected": "Weak"
+    },
+    "Superego": {
+      "options": {
+        "Dominant": "Strong moral standards, often feels guilt.",
+        "Balanced": "Healthy moral standards, balanced guilt.",
+        "Weak": "Minimal internalization of societal norms, less guilt."
+      },
+      "selected": "Balanced"
+    }
+  },
+  "Eysenck's Three-Factor Model": {
+    "Psychoticism": {
+      "options": {
+        "High": "Aggressive, egocentric, impulsive.",
+        "Moderate": "Occasionally aggressive, generally cooperative.",
+        "Low": "Empathetic, altruistic, controlled."
+      },
+      "selected": "Moderate"
+    },
+    "Extraversion": {
+      "options": {
+        "High": "Outgoing, lively, energetic.",
+        "Moderate": "Socially balanced, enjoys both social and solitary activities.",
+        "Low": "Introverted, quiet, reserved."
+      },
+      "selected": "High"
+    },
+    "Neuroticism": {
+      "options": {
+        "High": "Anxious, moody, emotionally unstable.",
+        "Moderate": "Occasionally anxious, generally emotionally stable.",
+        "Low": "Calm, resilient, emotionally stable."
+      },
+      "selected": "Low"
+    }
+  },
+  "Jung's Personality Types": {
+    "Introversion vs. Extraversion": {
+      "options": {
+        "Introversion": "Reflective, reserved, inner-oriented.",
+        "Extraversion": "Sociable, outgoing, outer-oriented."
+      },
+      "selected": "Introversion"
+    },
+    "Thinking vs. Feeling": {
+      "options": {
+        "Thinking": "Logical, objective, decision-making based on logic.",
+        "Feeling": "Empathetic, subjective, decision-making based on emotions."
+      },
+      "selected": "Feeling"
+    },
+    "Sensing vs. Intuition": {
+      "options": {
+        "Sensing": "Practical, detail-oriented, focuses on concrete information.",
+        "Intuition": "Imaginative, future-oriented, focuses on abstract concepts."
+      },
+      "selected": "Intuition"
+    },
+    "Judging vs. Perceiving": {
+      "options": {
+        "Judging": "Organized, decisive, prefers structure.",
+        "Perceiving": "Flexible, spontaneous, prefers flexibility."
+      },
+      "selected": "Judging"
+    }
+  }
+}
