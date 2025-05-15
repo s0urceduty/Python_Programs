@@ -14,3 +14,5 @@ Beyond individual projects, the repository demonstrates Sourceduty's emphasis on
 [Python Simulator](https://chatgpt.com/g/g-NLUSBfccY-python-simulator)
 <br>
 [Sourceduty](https://sourceduty.com/)
+<br>
+[Programming](https://github.com/sourceduty/Programming)
