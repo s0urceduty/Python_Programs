@@ -16,3 +16,5 @@ Beyond individual projects, the repository demonstrates Sourceduty's emphasis on
 [Sourceduty](https://sourceduty.com/)
 <br>
 [Programming](https://github.com/sourceduty/Programming)
+<br>
+[Python 30](https://github.com/sourceduty/Python_30)
