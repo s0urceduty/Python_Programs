@@ -15,6 +15,8 @@ Beyond individual projects, the repository demonstrates Sourceduty's emphasis on
 <br>
 [Sourceduty](https://sourceduty.com/)
 <br>
+[Python Terminal Tool](https://chatgpt.com/g/g-682b19fda5e48191879463ff4f8254cb-python-terminal-tool)
+<br>
 [Programming](https://github.com/sourceduty/Programming)
 <br>
 [Python 30](https://github.com/sourceduty/Python_30)
