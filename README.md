@@ -21,4 +21,4 @@ Beyond individual projects, the repository demonstrates Sourceduty's emphasis on
 <br>
 [Python 30](https://github.com/sourceduty/Python_30)
 <br>
-[Digital Toolbox](https://chatgpt.com/g/g-682bc5040d448191ac79e2551465741d-toolbox-program)
+[Toolbox Program](https://chatgpt.com/g/g-682bc5040d448191ac79e2551465741d-toolbox-program)
