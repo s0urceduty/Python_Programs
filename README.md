@@ -11,6 +11,12 @@ Beyond individual projects, the repository demonstrates Sourceduty's emphasis on
 
 #
 
+![PyPi Studio](https://github.com/user-attachments/assets/6962be60-7fe1-42e1-8923-0629f3726b4d)
+
+[PyPi Studio](https://chatgpt.com/g/g-682fb476dd048191800bdbc557bd7e9a-pypi-studio) was made to assist users in navigating and managing Python libraries and packages on the PyPi platform, making it an essential tool for developers working with Python packages. It offers a range of features, including the ability to search for specific packages using keywords, retrieve detailed metadata about a particular library, explore the available versions of packages, and obtain information about release notes, dependencies, and file types for specific versions. PyPi Studio can also help users explore the latest versions of libraries, check package compatibility, manage PyPi accounts, and even assist with uploading packages. For those who need to manage user credentials or track the popularity and download statistics of Python libraries, this GPT is equipped with functionalities to handle those tasks too. By providing precise, version-specific package information, PyPi Studio ensures that users get the right details to support their development work, whether they are investigating the latest releases, managing dependencies, or dealing with package updates. Whether you’re a developer looking to optimize your workflow or a user trying to navigate the expansive PyPi ecosystem, PyPi Studio serves as a comprehensive tool for every aspect of Python package management.
+
+#
+
 [Python Simulator](https://chatgpt.com/g/g-NLUSBfccY-python-simulator)
 <br>
 [Sourceduty](https://sourceduty.com/)
