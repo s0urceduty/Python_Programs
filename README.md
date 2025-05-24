@@ -24,6 +24,10 @@ AI writes Python code from plain text user input by leveraging advanced natural 
 
 #
 
+![Pythonic Popularity](https://github.com/user-attachments/assets/8dc34426-f799-4b09-a3b6-bced86ca119d)
+
+#
+
 [Sourceduty](https://sourceduty.com/)
 <br>
 [Python Terminal Tool](https://chatgpt.com/g/g-682b19fda5e48191879463ff4f8254cb-python-terminal-tool)
