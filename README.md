@@ -17,6 +17,10 @@ Beyond individual projects, the repository demonstrates Sourceduty's emphasis on
 
 #
 
+![Python](https://github.com/user-attachments/assets/03f48e8f-3fae-4937-8ce8-c9eb7f83ff4b)
+
+#
+
 [Python Simulator](https://chatgpt.com/g/g-NLUSBfccY-python-simulator)
 <br>
 [Sourceduty](https://sourceduty.com/)
