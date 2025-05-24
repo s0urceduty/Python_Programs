@@ -1,9 +1,4 @@
-#### Python programs developed by Sourceduty.
-#
-
 ![Python](https://github.com/user-attachments/assets/e73d320c-95ed-411b-b679-17c82ca86d81)
-
-#
 
 The Sourceduty Python Programs repository is a diverse collection of Python scripts that showcase the company's multifaceted approach to digital art, automation, and data analysis. This repository includes projects ranging from creative tools like the "Fractal Art Creator" and "ASL GIF Maker" to utility applications such as the "3D Model STL File Database Manager" and "Autoformat Notepad V1.0." Each program reflects Sourceduty's commitment to blending artistic expression with technical proficiency, providing solutions that cater to both creative and practical needs.
 
