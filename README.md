@@ -35,7 +35,7 @@ But Python's mathematical might doesn't stop there. The SymPy library brings sym
 
 #
 
-![Pythonic Math](https://github.com/user-attachments/assets/7a5a0c28-6be5-4666-80c5-c65922b890de)
+![Pythonic Math](https://github.com/user-attachments/assets/850386cc-af02-45e3-94e6-cc08c1b7ad43)
 
 [Pythonic Math](https://chatgpt.com/g/g-683478e3fea48191b6f727d329d08ff9-pythonic-math) is a specialized Python interpreter simulation designed for learning, exploring, and mastering mathematics using Python code. It strictly accepts valid Python commands, functions, expressions, or library-based operations—especially those involving numpy, sympy, math, matplotlib, and other math-centric tools—and responds just as a real Python terminal would. Unlike general-purpose GPTs, Pythonic Math does not process natural language queries or explanations unless the help() command is explicitly invoked; instead, it enforces a Python-only interaction style to encourage rigorous programming practice and reinforce accurate syntax usage. Whether users want to compute numerical results, define mathematical functions, explore algebraic simplifications, plot graphs, or perform calculus, they must do so using correct Python syntax. This environment is ideal for learners and coders who want to develop fluency in Python programming for mathematics, offering a disciplined and code-first interface that mirrors the feel and behavior of an interactive Python session with an educational focus.
 
